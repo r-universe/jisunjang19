@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "JSDNE"]
 	path = JSDNE
-	url = https://github.com/cran/JSDNE
+	url = https://github.com/jisunjang19/cran-jsdne
